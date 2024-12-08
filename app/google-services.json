@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "901937412968",
+    "firebase_url": "https://trippapua-87fe7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "trippapua-87fe7",
+    "storage_bucket": "trippapua-87fe7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901937412968:android:e684cfddad5f81128ff4dd",
+        "android_client_info": {
+          "package_name": "com.example.papua"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmruj5H_NWlHtZun1yZcsBsZTQMpqxlmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901937412968:android:9226fd6cf34043ff8ff4dd",
+        "android_client_info": {
+          "package_name": "com.example.trippapua"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmruj5H_NWlHtZun1yZcsBsZTQMpqxlmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
